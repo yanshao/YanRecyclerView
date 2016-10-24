@@ -33,3 +33,4 @@ RecyclerView问世已经很久了，但是我还没在实际的项目中使用�
 
 
 效果图：
+https://github.com/yanshao/YanRecyclerView/blob/master/%E6%95%88%E6%9E%9C.mp4
